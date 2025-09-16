@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **.NET, C#, Spring boot**
 
-- 👯 I’m looking to collaborate on [Ai-video-gif-generator](https://video-gif-frontend.vercel.app/)
-
 - 💬 Ask me about **React.js, Node.js, MySql**
 
 - 📫 How to reach me **kauraman200225@gmail.com**
